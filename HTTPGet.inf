@@ -1,0 +1,11 @@
+file name: httpget.zip
+replacements: 
+file version: 1.94
+file description: The HTTPGet component intended for downloading files/documents/results of CGI scripts from the web using standard Microsoft Windows Internet library (winInet.dll) which also used by Internet Explorer. Getting the web contents - same as in IE browser - reading files, plain text/htmls, caching etc.
+target: Delphi 3,4,5 & C++Builder 3,4,5
+author name: UtilMind Solutions
+author email: info@utilmind.com
+author URL: http://www.utilmind.com
+file status: Freeware
+full source: Yes
+category: Winsock & Internet, Winsock and Communications
